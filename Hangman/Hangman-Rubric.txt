@@ -1,0 +1,10 @@
+---B---
++Play hangman
++Gallows (lives)
++Show dashes
++User friendly (control array)
+
+---A---
++Genres, catergories, number of letters
++Multimedia
++AI

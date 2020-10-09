@@ -1,0 +1,15 @@
+---B---
++Create random arrays
++Generate up to 5000 numbers
++Exchange sort
++Bubble sort
++Comb sort
++Binary search
++Timer
+
+---A---
++User input
+-Different sort
++5000 words
+-5000 employees
++Binary search all occurrences

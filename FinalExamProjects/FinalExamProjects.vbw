@@ -1,0 +1,7 @@
+frmMainMenu = 71, 71, 837, 711, C, 66, 40, 988, 729, C
+frmClassFees = 66, 66, 791, 642, , 175, 105, 876, 764, C
+frmDiveJudge = 152, 208, 872, 784, C, 78, 78, 1370, 718, C
+frmLetterWizard = 132, 132, 857, 708, C, 100, 41, 955, 590, C
+frmQuadraticGrapher = 88, 88, 811, 664, , 130, 130, 1422, 770, C
+frmShooter = 66, 66, 791, 642, C, 44, 17, 1336, 701, C
+frmPalindromeChecker = 53, -8, 924, 683, , 15, 155, 1307, 795, C

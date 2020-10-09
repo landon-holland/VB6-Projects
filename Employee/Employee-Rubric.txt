@@ -1,0 +1,13 @@
+---B---
++5 pieces of data
++Save/retrieve
++View all/one at a time
++Add
++Pull down menus
+
+---A---
++Change
++Delete
++2 more pieces of data
++Linear searches
++Save and open dialogue

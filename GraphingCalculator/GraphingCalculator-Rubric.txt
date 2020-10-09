@@ -1,0 +1,7 @@
+---B---
++3 graphs (line, circle, parabola) only 2 graphs at a time
+
+---A---
++Both ways of input (mouse down and textbox)
++Extra draw types
+-Points of intersection

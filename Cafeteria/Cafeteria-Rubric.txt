@@ -1,0 +1,11 @@
+---B---
++Up to 10 choices
++Up to 1000 choices
++Horizontal bar chart
++Filled, different colors, moving labels in PicBox
+
+---A---
++Vertical bar chart
+-Pie chart
++Legend
+-Pie chart: moving labels
